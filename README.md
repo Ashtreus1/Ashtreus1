@@ -3,9 +3,8 @@
 <h3 align="center">Co-Founder of Innotech. And as of my journey, I'm aspiring software engineer and data scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keiru&label=Profile%20views&color=0e75b6&style=flat" alt="keiru" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keiru" alt="keiru" /></a> </p>
-
+<img alt='coding' align='right' src='https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif' width='400'>
 - 🔭 I’m currently working on our projects in my organization **Employee Logging and Registration System - QR Integrated**
 
 - 🌱 I’m currently learning **Javascript libraries like React, NextJS, Angular, and so on. In addition, python machine learning modules like tensorflow and pytorch**
