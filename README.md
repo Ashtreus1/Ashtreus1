@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jameson Gelarman - or you can call me Keiru</h1>
 <h3 align="center">Co-Founder of Innotech. And as of my journey, I'm aspiring software engineer and data scientist</h3>
 
+<img alt="Coding" width="400" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3p5Nm1wZ2tuaWM3YXRnNnJ1aTJna3NiMmQ5YjZsbWZndjFldmo1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keiru&label=Profile%20views&color=0e75b6&style=flat" alt="keiru" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keiru" alt="keiru" /></a> </p>
