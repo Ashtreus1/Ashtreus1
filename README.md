@@ -3,10 +3,8 @@
 # 💫 About Me:
 
 I'm Jameson Gelarman, also known as Keiru, an aspiring software engineer and tech enthusiast with a diverse background in software development, including website and desktop development. My goal is to become a software engineer and eventually transition into a data scientist. I'm dedicated to leveraging my skills in computer science, particularly in computer programming and software engineering practices, supported by an active and collaborative tech community. With a solid foundation in web and desktop development, I aim to continuously enhance my skills through challenging projects.
-
-[![](https://visitcount.itsvg.in/api?id=Ashtreus1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# 💻 Tech Stack:
+# 
+# 💻 Tech Stack
 
 ## Programming Languages
 
@@ -37,11 +35,6 @@ I'm Jameson Gelarman, also known as Keiru, an aspiring software engineer and tec
 - Email: [jameson.gelarman@cvsu.edu.ph](mailto:jameson.gelarman@cvsu.edu.ph)
 - ![Facebook](https://img.icons8.com/color/48/000000/facebook.png) [Keiru Dev](https://www.facebook.com/profile.php?id=100085889906388)
 - ![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png) [@kei.ashii](https://instagram.com/kei.ashii)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashtreus1&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashtreus1&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashtreus1&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ashtreus1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
