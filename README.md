@@ -1,9 +1,13 @@
 # Jameson Gelarman (Keiru) - README Profile
 
 # 💫 About Me:
+  - Focusing in full-stack development with trend frameworks like React Typescript and NextJS
+  - Continuously learning and expanding my horizons
+  - Love to read blog and articles ( also manga :> )
 
-I'm Jameson Gelarman, also known as Keiru, an aspiring software engineer and tech enthusiast with a diverse background in software development, including website and desktop development. My goal is to become a software engineer and eventually transition into a data scientist. I'm dedicated to leveraging my skills in computer science, particularly in computer programming and software engineering practices, supported by an active and collaborative tech community. With a solid foundation in web and desktop development, I aim to continuously enhance my skills through challenging projects.
-# 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💻 Tech Stack
 
 ## Programming Languages
@@ -12,7 +16,7 @@ I'm Jameson Gelarman, also known as Keiru, an aspiring software engineer and tec
 
 ## Hosting / SaaS
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br>
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <br>
 
 ## Frameworks, Platform, and Libraries
 
@@ -41,11 +45,5 @@ I'm Jameson Gelarman, also known as Keiru, an aspiring software engineer and tec
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ashtreus1&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
